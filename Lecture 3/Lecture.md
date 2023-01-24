@@ -41,7 +41,21 @@ Note: Nobody is directing the wave, people react to the ones on their left/right
 % n: The number of agents
 x = 1:n % [0,1,2,...,n];
 % Consider a vector of n binary states instead-
-x = zeros(1, n);
+x = 1:n==r % Where r is an integer, this will place 0s in every position and a 1 in the r-th position
 ```
 
+Some other interesting things to note-
+```MATLAB
+% We right shift the vector x into xs and then compare each element of x to xs.
+% We could've just looked at x(i) and x(i+1), but then we would have to deal with index errors.
+x0 = x; % create a copy of state vector
+xs = x([end 1:end-1]); % right-shifted copy of state vector
+for i = 1:n % loop over state vector elements
+	if x0(i)==0&&xs(i)==1 % if 0 & left neighbor 1,
+		x(i) = 1; % become 1
+	elseif x0(i)==1 % if 1,
+		x(i) = 0; % become 0
+	end
+end
+```
 
