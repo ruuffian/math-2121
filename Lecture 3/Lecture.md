@@ -24,5 +24,10 @@ January 24th, 2023
 	- Attributes: Collected from Census
 	- Interactions: Contact between agents at school or work, as well as contact with the subway
 	- Conclusions: 4.4% of infections happened on the subway, similar risk as going to work- largest percentage of infections was going to school.
-- Consumer Product Model
-	- 
+
+Massive Software - Agent Based Modeling to Choreograph Crowd Scenes
+	- Generates realistic CGI crowd or creatures in order to simulate specific behavior
+	- Allows each agent to be governed by different rules
+	- Makes large crowd scenes much easier
+
+<h3> Mexican Wave </h3>
