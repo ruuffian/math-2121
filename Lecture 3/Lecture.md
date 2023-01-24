@@ -1,6 +1,7 @@
 January 24th, 2023
 
-<h3> ABM- Agent Based Modeling </h3>
+## ABM- Agent Based Modeling
+
 - Conway's Game of Life
 	- Obvious
 - Consumer Purchase Behavior
@@ -30,4 +31,7 @@ Massive Software - Agent Based Modeling to Choreograph Crowd Scenes
 	- Allows each agent to be governed by different rules
 	- Makes large crowd scenes much easier
 
-<h3> Mexican Wave </h3>
+## Mexican Wave
+
+Basically just the Wave you see at sports games.
+Key Takeaway: Nobody is directing the wave, people react to the ones on their left/right
