@@ -35,7 +35,7 @@ Massive Software - Agent Based Modeling to Choreograph Crowd Scenes
 
 Basically just the Wave you see at sports games.
 Note: Nobody is directing the wave, people react to the ones on their left/right
-[MATLAB Code](repo/MATH2121/mexicanwave/link.md)
+[MATLAB Code](link.md)
 
 ```MATLAB
 % n: The number of agents
