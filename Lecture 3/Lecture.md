@@ -34,4 +34,4 @@ Massive Software - Agent Based Modeling to Choreograph Crowd Scenes
 ## Mexican Wave
 
 Basically just the Wave you see at sports games.
-Key Takeaway: Nobody is directing the wave, people react to the ones on their left/right
+Note: Nobody is directing the wave, people react to the ones on their left/right
